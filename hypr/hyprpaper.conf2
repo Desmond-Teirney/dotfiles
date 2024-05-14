@@ -1,0 +1,4 @@
+hyprctl hyprpaper preload "~/home/usr/Downloads/Photos/Wallpapers"
+hyprctl hyprpaper wallpaper "HDMI-A-1, "~/home/usr/Downloads/Photos/Wallpapers"
+
+hyprctl hyprpaper listloaded
